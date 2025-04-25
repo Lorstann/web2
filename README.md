@@ -88,7 +88,7 @@ node server.js
 ## ✅ Demo
 
 **Frontend:**  
-[http://landmarks-frontend.s3-website-eu-central-1.amazonaws.com](http://landmarks-frontend.s3-website-eu-central-1.amazonaws.com)
+[http://webmidterm2.s3-website.eu-central-1.amazonaws.com/](http://webmidterm2.s3-website.eu-central-1.amazonaws.com/)
 
 **Backend API Example:**  
 `http://your-ec2-public-ip/api/landmarks`
